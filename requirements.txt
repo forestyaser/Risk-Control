@@ -1,0 +1,11 @@
+pandas
+matplotlib
+sklearn
+dwave_qbsolv==0.2.9
+numpy
+xgboost
+scipy
+skflow
+tensorflow
+sklearn_pandas
+flask
